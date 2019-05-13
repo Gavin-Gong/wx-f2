@@ -1,4 +1,11 @@
-<!--index.wxml-->
-<view class="container">
-  <ff-canvas id="line-dom" canvas-id="line" opts="{{ opts }}"></ff-canvas>
+<view>
+  <view style="height: 40vh">
+
+  </view>
+  <view style="height: 400rpx">
+    <ff-canvas id="line-dom" canvas-id="line" opts="{{ opts }}"></ff-canvas>
+  </view>
+  <view style="height: 100vh">
+    fooooooooooooooooooooooooooooooooooooooooo
+  </view>
 </view>
